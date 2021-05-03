@@ -32,4 +32,5 @@ Alias: ficha técnica, receitas
 ### [[tomate cherry]]
 ### [[Bacon]]
 ### [[tofu]]
+### [[mistura de pimentos]]
 ###
