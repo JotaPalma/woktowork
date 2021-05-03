@@ -12,4 +12,4 @@ Tags: noodles, preparação, ficha técnica
 ### Não precisa de cozedura
 ## Info
 ### [[Validade]] [[48 h]]
-### [[Peso]]
+### [[Peso]] 1 embalagem de 200g
