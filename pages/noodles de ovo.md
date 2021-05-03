@@ -8,5 +8,5 @@ Tags: massa, receita, ficha técnica
 ### Noodles de ovo: 12 porções
 ### Óleo vegetal: 1 concha (15ml)
 ## Preparação
-###
+### Ligar o [[cozedor de massa]]
 ## Info
