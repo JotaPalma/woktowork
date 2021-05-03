@@ -14,4 +14,5 @@ Tags: massa, receita, ficha técnica
 ### Adicionar uma concha (15ml) de óleo e envolver bem
 ### Colocar os noodles num araven em [[refrigeração]] entre 0 e 5ºC
 ## Info
-### [[Validade]]
+### [[Validade]] [[36h]]
+### [[Peso]] [[160g]]
