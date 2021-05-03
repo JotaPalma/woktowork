@@ -12,4 +12,5 @@ title: noodles de arroz
 ### Escorrer os noodles
 ### Efetuar o [[arrefecimento]]
 ## Info
-###
+### [[Validade]] [[48 h]]
+### [[Peso]] [[160g]]
