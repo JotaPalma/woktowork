@@ -12,5 +12,5 @@ title: arroz thai
 ### Juntar a água, o óleo e o sumo de limão
 ### Quando a arrozeira desligar, mexer o arroz
 ## Info
-### Validade: 16h
-### Dose:
+### [[Validade]]: 16h
+### [[Peso]]: 1 concha de arroz (180g)

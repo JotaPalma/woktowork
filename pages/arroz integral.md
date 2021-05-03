@@ -7,7 +7,7 @@ title: arroz integral
 ### 1kg arroz integral
 ### 1.1l água
 ### 15ml óleo vegetal
-## Receita
+## Preparação
 ### Colocar o arroz na arrozeira
 ### Juntar a água e o óleo
 ### Fechar a tampa e ligar a arrozeira
