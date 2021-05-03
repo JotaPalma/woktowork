@@ -3,5 +3,7 @@ title: arroz integral
 ---
 
 ## #receita 
-## Arroz Integral .´
+## 1kg arroz integral
+## 1.1l água
+## 15ml óleo vegetal
 ##
