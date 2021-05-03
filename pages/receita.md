@@ -34,4 +34,9 @@ Alias: ficha técnica, receitas
 ### [[tofu]]
 ### [[mistura de pimentos]]
 ### [[espinafres]]
+### [[pak choi]]
+### [[bróculos]]
+### [[ananás]]
+### [[manga]]
+### [[lima]]
 ###
