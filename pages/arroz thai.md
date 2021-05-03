@@ -13,4 +13,4 @@ title: arroz thai
 ### Quando a arrozeira desligar, mexer o arroz
 ## Info
 ### Validade: 16h
-###
+### Dose:
