@@ -8,4 +8,4 @@ title: arroz thai
 ### Óleo vegetal: 15ml
 ### Limão: 15ml
 ## Preparação
-###
+### Colocar
