@@ -5,5 +5,7 @@ Tags: massa, receita, ficha técnica
 ---
 
 ## Ingredientes
+### Noodles de ovo: 12 porções
+###
 ## Preparação
 ## Info
