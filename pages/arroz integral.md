@@ -11,4 +11,6 @@ title: arroz integral
 ### Colocar o arroz na arrozeira
 ### Juntar a água e o óleo
 ### Fechar a tampa e ligar a arrozeira
-### Quando a luz laranja apagar,
+### Quando a luz laranja apagar, retirar o arroz e efetuar o arrefecimento em banho de [[água e gelo]] ou em [[abatedor de temperatura]]
+## Info:
+###
