@@ -13,4 +13,5 @@ title: arroz integral
 ### Fechar a tampa e ligar a arrozeira
 ### Quando a luz laranja apagar, retirar o arroz e efetuar o arrefecimento em banho de [[água e gelo]] ou em [[abatedor de temperatura]]
 ## Info:
+### [[Validade]]: [[24 h]]
 ###
