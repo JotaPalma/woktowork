@@ -14,4 +14,4 @@ title: arroz integral
 ### Quando a luz laranja apagar, retirar o arroz e efetuar o arrefecimento em banho de [[água e gelo]] ou em [[abatedor de temperatura]]
 ## Info:
 ### [[Validade]]: [[24 h]]
-###
+### [[Peso]]: 180g
