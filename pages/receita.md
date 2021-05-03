@@ -28,4 +28,8 @@ Alias: ficha técnica, receitas
 ### [[Vaca]]
 ### [[cogumelos]]
 ### [[cogumelos shitake]]
+### [[rebentos de bambu]]
+### [[tomate cherry]]
+### [[Bacon]]
+### [[tofu]]
 ###
