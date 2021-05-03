@@ -1,5 +1,6 @@
 ---
 title: receita
+Alias: ficha técnica, receitas
 ---
 
 ## BASES
@@ -11,7 +12,6 @@ title: receita
 ### [[arroz thai]]
 ### [[arroz integral]]
 ### [[vegetais salteados]]
-###
 ## BEBIDAS
 ## MOLHOS
 ## INGREDIENTES
