@@ -39,4 +39,5 @@ Alias: ficha técnica, receitas
 ### [[ananás]]
 ### [[manga]]
 ### [[lima]]
-###
+### [[mix couve e cenoura]]
+### [[mix cebola e alho francês]]
