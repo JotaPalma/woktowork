@@ -20,6 +20,7 @@ Se o chá ficar tempo a mais torna-se demasiado amargo
 ### #+END_TIP
 ### Deixar o chá arrecfecer 2 horasa
 ### Guardar em [[refrigeração]] de um dia para o outro
+### De manhã, colocar no [[ugulini]]
 ## Info
 ### [[Validade]] [[24 h]]
 ### [[Peso]] 1 copo
