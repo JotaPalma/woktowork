@@ -14,3 +14,5 @@ Tags: preparação, receita, prato
 ### Colocar o óleo e a mistura de alho e gengibre no wok
 ### Juntar a cebola roxa e mexer até ficar cozinhada
 ### Adicionar a dose da proteína
+### Fritar um ovo na frigideira com uma colher de sopa de óleo vegetal
+### No empratamento, colocar de um lado do prato um
