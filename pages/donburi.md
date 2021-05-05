@@ -13,4 +13,4 @@ Tags: preparação, receita, prato
 ## Preparação
 ### Colocar o óleo e a mistura de alho e gengibre no wok
 ### Juntar a cebola roxa e mexer até ficar cozinhada
-###
+### Adicionar a dose da proteína
